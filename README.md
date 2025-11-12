@@ -1,3 +1,3 @@
 # репка GitHub
-[node.js💀](img/Node.js_logo.svg.png)
+[node.js💀](./img/Node.js_logo.svg.png)
 wooooooow
