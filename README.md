@@ -8,20 +8,6 @@
 
 <div align="center">
   
-[🚀 Быстрый старт](#быстрый-старт) | 
-[📚 Примеры](#примеры) | 
-[🔧 API](#api) | 
-[🧪 Тесты](#тесты)
-
-</div>
-
-## 🚀 Быстрый старт
-
-```bash
-git clone <repository-url>
-cd secure-messenger-crypto
-```
-
 ```javascript
 const { MessengerCrypto, SecureMessenger } = require('./crypto-script');
 
