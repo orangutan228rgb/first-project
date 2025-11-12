@@ -1,2 +1,2 @@
 # репка шапка GitHub
-node.js💀(img/img.png)
+node.js💀(img/Node.js_logo.svg.png)
