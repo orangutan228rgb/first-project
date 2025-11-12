@@ -2,4 +2,3 @@
 <p align="center">
   <img src="img/Node.js_logo.svg.png" width="200" alt="Node.js Logo">
 </p>
-![Node.js](img/Node.js_logo.svg.png)
